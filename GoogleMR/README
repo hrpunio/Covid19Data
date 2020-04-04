@@ -1,0 +1,24 @@
+Google Community Mobility Reports
+www.google.com/covid19/mobility/
+
+[Google has launched a new website that uses
+anonymous location data collected from users of Google products and
+services to show the level of social distancing taking place in
+various locations.  The COVID-19 Community Mobility Reports web site
+will show population data trends of six categories: Retail and
+recreation, grocery and pharmacy, parks, transit stations, workplaces,
+and residential. The data will track changes over the course of
+several weeks, and as recent as 48-to-72 hours prior, and will
+initially cover 131 countries as well as individual counties within
+certain states.]
+
+The raports contains charts and comments in the form:
+NN% compared to baseline (in six above mentioned categories) where NN is a number.
+It is assumed the number is a %% change at the last date 
+depicted (which accidentaly is a part of a filename). So for example a filename
+2020-03-29_PL_Mobility_Report_en.txt
+contains a sentence `Retail & recreation -78% compared to baseline` which (probably)
+means that somwhow registered traffic at R&R facilities was 22% of the baseline.
+Anyway those six numbers was extracted for OECD countries (and some other countries) 
+and converted to CSV file.
+

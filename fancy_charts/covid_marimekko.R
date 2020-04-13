@@ -22,7 +22,7 @@ d$deathsr <- d$deaths/d$popm
 ## Tylko kraje wykazujące zmarłych
 d <- d %>% filter(deaths > 0) %>% as.data.frame
 ## Tylko kraje z kompletem wskaźników
-d <- d[complete.cases(d), ]
+##d <- d[complete.cases(d), ]
 nrow(d)
 ######################## Deaths ##############################################
 ## Tylko kraje z min 2/1mln i populacji > 1mln

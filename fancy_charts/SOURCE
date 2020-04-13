@@ -1,0 +1,30 @@
+Population
+----------
+https://data.worldbank.org/indicator/sp.pop.totl
+API_SP.POP.TOTL_DS2_en.csv
+pop2018.csv
+
+Other indicators (OWiD):
+-----------------------
+https://ourworldindata.org/
+
+maddison-data-gdp-per-capita-in-2011us.csv
+gdp2016.csv (2016 only extracted)
+
+life-expectancy.csv
+le2019.csv (2019 extracted)
+
+child-deaths-igme-data.csv
+child-mortality-igme.csv
+cm2017.csv (2017 extracted)
+
+COVID19 cases/deaths
+--------------------
+www.ecdc.europa.eu/en/covid-19/data-collection
+covid19_C.csv
+
+Auxilliary data:
+cc-eu.csv
+
+Combined resulting datafile:
+indcs.csv

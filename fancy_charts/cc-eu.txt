@@ -1,0 +1,5 @@
+ee <- c(
+'BEL', 'GRC', 'LTU', 'PRT', 'BGR', 'ESP', 'LUX', 'ROU', 'CZE', 'FRA', 'HUN',
+'SVN', 'DNK', 'HRV', 'MLT', 'SVK', 'DEU', 'ITA', 'NLD', 'FIN', 'EST', 'CYP',
+'AUT', 'SWE', 'IRL', 'LVA', 'POL', 'ISL', 'NOR', 'LIE', 'CHE', 'MNE', 'MKD',
+'ALB', 'SRB', 'TUR', 'BIH', 'BLR', 'MDA', 'UKR', 'ISR', 'RUS', 'GBR' );
